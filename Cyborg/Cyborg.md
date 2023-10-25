@@ -105,7 +105,7 @@ sudo borg mount field/dev/final_archive /mnt/borg
 Once in the /mnt/borg folder we see a home directory for alex
 We have a rabbit hole on the Desktop, however in the Documents folder we see what might be a password `alex:S3cretP@s3`
 
-Connect via SSH with the credentals
+Connect via SSH with the credentials
 
 `cat user.txt`
 
